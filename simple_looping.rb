@@ -20,6 +20,7 @@ def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
   loop do 5.times 
   phrase = "Welcome to Flatiron School's Web Development Course!"
+  puts phrase
 end 
 end
 
